@@ -1,0 +1,4 @@
+ID;RoomTypeID;RoomNumber;RoomFloor;Description
+1;1;111;1;Just a standard room
+2;2;112;1;Deluxe Room
+3;3;116;1;Standard double bed
